@@ -3,6 +3,7 @@
    "version": "1.0.0",
    "description": "",
    "scripts": {
+        "js-add": "package.json"
         "build": "echo \"build specified\" && exit 1",
        "test": "echo \"test specified\" && exit 1",
         "start": "node index.js"
